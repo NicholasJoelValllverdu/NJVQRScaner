@@ -1,0 +1,2 @@
+# NJVQRScanner
+QR Scanner
